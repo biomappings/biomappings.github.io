@@ -3,7 +3,7 @@
 Biomappings is a component of the [Biopragmatics Stack](https://biopragmatics.github.io/).
 You can find more information in a few places:
 
-1. [Code](https://github.com/biopragmatics/biomappings)
+1. [Source Code and Data](https://github.com/biopragmatics/biomappings)
 2. [PyPI](https://pypi.org/project/biomappings)
 3. Archive on [Zenodo](https://camo.githubusercontent.com/699525fbe02fb48b728f12148794b29bbdf185b9ff2687be742890a7b1e8adcf/68747470733a2f2f7a656e6f646f2e6f72672f62616467652f3238353335323930372e737667)
 4. [Website](https://biopragmatics.github.io/biomappings)
